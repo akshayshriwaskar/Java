@@ -17,7 +17,7 @@ What is Java?
 		// Public:- If first keyword is not public then Java Virtual Machine(JVM) is not able to excute.
 		//static:- Without creating any object of classes. In the main method you can do whatever code, you can able to excute it.
 		//void:- No value returns.
-		//Main:-  When you pass any method to parametors from main methods then it calles to Command line argument. String keyword is predefined class. We know because Class name 1st letter is Capital. args is a Array variable. You can variable name is different as per your choice.
+		//Main:-  When you pass any method to parametors from main methods then it calles to Command line argument. String keyword is predefined class. We know because Class name 1st letter is Capital. args is a Array variable. You can set variable name is different as per your choice.
 
 		Java Comments:-
 
