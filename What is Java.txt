@@ -1,0 +1,26 @@
+What is Java?
+
+	Java is a class based high-level, Object-Oriented Programming language developed by "James Gosling" and his friends in the year 1995.
+
+	Note:-
+
+	1) The first version of java (JDK 1.0) was released on the year Jan-23rd 1996 by "Sun Microsystem".
+
+	2) Latest version of java (JDK 19) on the day September, 20th 2022 by Oracle.
+
+	Syntax:- class class-name
+		{
+			public static void main(String args[])
+			//Code
+		}
+
+		// Public:- If first keyword is not public then Java Virtual Machine(JVM) is not able to excute.
+		//static:- Without creating any object of classes. In the main method you can do whatever code, you can able to excute it.
+		//void:- No value returns.
+		//Main:-  When you pass any method to parametors from main methods then it calles to Command line argument. String keyword is predefined class. We know because Class name 1st letter is Capital. args is a Array variable. You can variable name is different as per your choice.
+
+		Java Comments:-
+
+		Single line(//)
+		Multi-line (/*-----
+					------*/)
