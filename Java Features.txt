@@ -1,0 +1,16 @@
+Java Features:
+
+1) Simple and easy to learn.
+2) Open Source
+3) Platform independent
+4) Secure
+5) Embedded
+6) Compiled & Interpreted 
+7) Robust
+8) Large library & frameworks
+
+Why Java So Popular?
+
+1) S/w
+2) Website
+3) Mobile Apps
