@@ -1,0 +1,26 @@
+What is datatype?
+    Datatype specify the different
+type of values that are stored on the
+variables.
+
+Type:-
+    There are 2 types of datatypes:
+    (1: Primitive) (2: Non-Primitive)
+     
+      1.Numeric
+      byte (1)
+      Short (2)
+      int (4)
+      long (8)
+      double (8)
+      float (4)
+
+      2.Non-Numeric
+      Char (2)
+      Boolean (1 bit)
+
+      Non-Primitive
+      Class
+      Array
+      String 
+      etc...

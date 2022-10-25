@@ -1,0 +1,8 @@
+What is identifier?
+    identifier refer to the name of variables, methods, classes and so on.
+
+    Ex. int a;
+    void m1();
+    class a;
+    interface B;
+    

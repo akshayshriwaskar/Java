@@ -1,0 +1,13 @@
+What is variable?
+    Variable is the name of
+    memory location where we 
+    stored different types of 
+    value.
+    eg. int a=10
+    ++a //11
+
+    Types of variable:-
+    1. Local {block of the method,conditional statement variable}
+    2. Static {where static keyword is used}
+    3. Instance eg Class {{}}
+    4. Final

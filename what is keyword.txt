@@ -1,0 +1,21 @@
+What is keyword?
+    Keywords are the reserved word whose meaning is
+    already defined in the java compiler.
+
+    Note:- 
+    1) We can't use keyword for our personal use.
+
+    2) keywords are the case-sensitive.
+
+    Java Keywords:-
+
+    Byte    else        extends     import            switch
+    short   for         implements   class              case
+    int     do          final        interface          const*
+    long   while        finally      new                goto*
+    float   break       try         native          strictfp**
+    double  continue    cate        instaceof       enum****
+    void    default     throw       package         assert***
+    char    private     throws      return          abstruct
+    boolean protechted  static      this            transient
+    if       public     volatile    super           synchronized

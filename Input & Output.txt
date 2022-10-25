@@ -1,0 +1,13 @@
+Input & output
+
+input_> Scanner class (java.util.scanner)
+syntax:-
+scanner util_name=new Scanner(System.in);
+Scanner class methods
+1) nextInt()-> for integer value
+2) nextLine()-> for string value
+3) nextDouble()-> for double value
+
+Output-> system class (java.lang.system)
+syntax:-
+System.out.print(" ");

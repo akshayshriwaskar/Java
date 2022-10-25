@@ -1,0 +1,27 @@
+Conditional Statement
+Looping Statement
+Transfer Statement
+
+1)Conditional Statement:-
+if 
+if-else
+else-if
+nested if
+switch case
+
+If Statement:- It is used when we want to test
+a single condition.
+Syntax:-
+if(condition)
+{
+    //Statement
+}
+
+Flowchart:-
+start
+condition  false
+true
+code            
+            end
+
+            

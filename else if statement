@@ -1,0 +1,15 @@
+Else if statement:-
+It is used when we have only one if block, multiple else-if bloack and at the last else block.
+Syntax:-
+if (condition1){
+    statement 1;
+}
+else if(condition 2)
+{
+    statement 2;
+}
+else{
+    statement 3;
+}
+
+Flowchart:-

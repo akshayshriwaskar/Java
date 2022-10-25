@@ -1,0 +1,21 @@
+If else statement:-
+        It is used when we want to execute two statements for a single condition.
+
+        Syntax:-
+        if (condition)
+        {
+            statement 1;
+        }
+        else{
+            statement 2;
+        }
+
+        Flowchart:-
+
+        Start
+
+        condition   false
+
+        if          else
+
+                    end

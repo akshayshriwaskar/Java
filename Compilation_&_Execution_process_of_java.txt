@@ -1,0 +1,9 @@
+filename.Java     //Source code
+|
+javac
+|
+first.class     //byte code
+|
+JVM
+|
+Output
